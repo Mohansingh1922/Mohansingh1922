@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohansingh1922
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning C language and linux
+- 🌱 I’m currently learning C++ language and flutter.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
