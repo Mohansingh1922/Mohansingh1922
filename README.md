@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohan Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer currently pursuing my bachelor's degree in Computer Science and Engineering from MNNIT Allahabad India</h3>
 
 - 🔭 I’m currently working on **Healthcare insurance system based on blockchain**
 
